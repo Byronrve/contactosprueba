@@ -1,0 +1,7 @@
+{
+  "name": "UnoApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
